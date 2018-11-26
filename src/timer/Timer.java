@@ -61,6 +61,10 @@ public class Timer extends JFrame {
 		
 		design();
 	}
+	//this is just test
+	private void test() {
+		//this is just a test.
+	}
 	private void stopwatch() {
 		state=true;
 		Thread t= new Thread() {
